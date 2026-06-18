@@ -44,5 +44,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# Google Services (Firebase) - never commit this
+# Google Services (Firebase)
 google-services.json
