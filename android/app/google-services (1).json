@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770748874145",
+    "project_id": "moodmirror-de4c5",
+    "storage_bucket": "moodmirror-de4c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770748874145:android:2e25bf5cad600c6a329fe0",
+        "android_client_info": {
+          "package_name": "com.group36.moodmirror"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUqEsNlSMNlUM8d7wLVz3ZQgzq4JuvHc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
